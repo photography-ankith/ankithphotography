@@ -1,0 +1,226 @@
+        <!-------------------- SERVICES PAGE  -------------------->
+
+        <div id="services">
+
+            <!-- SERVICES CONTENT -->
+            <div id="services-content">
+
+                 <!-- NAVIGATION BAR -->
+                 <div class="navigation-bar">
+
+                    <!-- LOGO -->
+                    <div class="logo"> <a href="#home" class="page-link hover">  ANKITH  </a></div>
+                    <!-- LOGO -->
+
+
+                    <!-- MENUBAR -->
+                    <div class="menu-bar hover">
+                        <div class="menu-bar-text">
+                          <a href="#">Menu</a>
+                        </div>
+
+                        <div class="menu-bar-line-container">
+                            <span class="menu-bar-line"></span>
+                            <span class="menu-bar-line"></span>
+                        </div>
+
+                    </div>
+                    <!-- MENUBAR -->
+
+                </div>
+                <!-- NAVIGATION BAR -->
+
+
+
+                <!-- SERVICES MAIN CONTENT -->
+
+                <div class="services-main-content">
+
+                    <!-- SERVICES HEADING -->
+                    <div class="services-heading">
+                        Services I Offer.
+                    </div>
+                    <!-- SERVICES HEADING -->
+
+
+                    <!-- SERVICES FLEX -->
+                   <div class="services-flex">
+
+                    <!-- SERVICE -->
+                    <div class="service">
+
+                        <!-- SERVICE IMG -->
+                        <div class="service-img">
+
+                            <div class="service-img-main"> 
+                                
+                                <img src="images/wedding-pic-two.jpg" alt="services-wedding">
+
+                            </div>                          
+
+                        </div>
+                        <!-- SERVICE IMG -->
+
+
+                        
+                        <!-- SERVICE INFO -->
+                        <div class="service-info">
+
+                            <div class="service-type-number">01</div>
+                            <div class="service-type-heading">WEDDING SHOOT</div>
+                            <div class="service-type-para">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, distinctio doloremque voluptate cupiditate nulla iste necessitatibus odio omnis quos eos et. Quidem facilis neque consequatur nemo molestias eligendi, animi autem!
+                            </div>
+                            <div class="service-type-price">
+                                Starting from <span class="highlight">20$/hr</span>
+                            </div>
+
+
+                        </div>
+                        <!-- SERVICE INFO -->
+
+
+                    </div>
+                    <!-- SERVICE -->
+
+
+
+
+                    <!-- SERVICE -->
+                    <div class="service">
+
+                        <!-- SERVICE IMG -->
+                        <div class="service-img">
+
+                            <div class="service-img-main"> 
+                                
+                                <img src="images/pic-architecture-five.jpg" alt="services-architecture">
+
+                            </div>                          
+
+                        </div>
+                        <!-- SERVICE IMG -->
+
+
+                        
+                        <!-- SERVICE INFO -->
+                        <div class="service-info">
+
+                            <div class="service-type-number">02</div>
+                            <div class="service-type-heading">ARCHITECTURE SHOOT</div>
+                            <div class="service-type-para">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, distinctio doloremque voluptate cupiditate nulla iste necessitatibus odio omnis quos eos et. Quidem facilis neque consequatur nemo molestias eligendi, animi autem!
+                            </div>
+                            <div class="service-type-price">
+                                Starting from <span class="highlight">30$/hr</span>
+                            </div>
+
+
+                        </div>
+                        <!-- SERVICE INFO -->
+
+
+                    </div>
+                    <!-- SERVICE -->
+
+
+
+
+                    <!-- SERVICE -->
+                    <div class="service">
+
+                        <!-- SERVICE IMG -->
+                        <div class="service-img">
+
+                            <div class="service-img-main"> 
+                                
+                                <img src="images/portrait-pic-five.jpg" alt="services-portrait">
+
+                            </div>                          
+
+                        </div>
+                        <!-- SERVICE IMG -->
+
+
+                        
+                        <!-- SERVICE INFO -->
+                        <div class="service-info">
+
+                            <div class="service-type-number">03</div>
+                            <div class="service-type-heading">PORTRAIT SHOOT</div>
+                            <div class="service-type-para">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, distinctio doloremque voluptate cupiditate nulla iste necessitatibus odio omnis quos eos et. Quidem facilis neque consequatur nemo molestias eligendi, animi autem!
+                            </div>
+                            <div class="service-type-price">
+                                Starting from <span class="highlight">15$/hr</span>
+                            </div>
+
+
+                        </div>
+                        <!-- SERVICE INFO -->
+
+
+                    </div>
+                    <!-- SERVICE -->
+
+
+
+
+                    <!-- SERVICE -->
+                    <div class="service">
+
+                        <!-- SERVICE IMG -->
+                        <div class="service-img">
+
+                            <div class="service-img-main"> 
+                                
+                                <img src="images/pic-advertising-three.jpg" alt="services-advertising">
+
+                            </div>                          
+
+                        </div>
+                        <!-- SERVICE IMG -->
+
+
+                        
+                        <!-- SERVICE INFO -->
+                        <div class="service-info">
+
+                            <div class="service-type-number">04</div>
+                            <div class="service-type-heading">OBJECT SHOOT</div>
+                            <div class="service-type-para">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, distinctio doloremque voluptate cupiditate nulla iste necessitatibus odio omnis quos eos et. Quidem facilis neque consequatur nemo molestias eligendi, animi autem!
+                            </div>
+                            <div class="service-type-price">
+                                Starting from <span class="highlight">25$/hr</span>
+                            </div>
+
+
+                        </div>
+                        <!-- SERVICE INFO -->
+
+
+                    </div>
+                    <!-- SERVICE -->
+
+
+
+
+                   </div>
+                    <!-- SERVICES FLEX -->
+
+
+
+                </div>
+
+                <!-- SERVICES MAIN CONTENT -->
+
+
+            </div>
+            <!-- SERVICES CONTENT -->
+
+
+        </div>
+
+
+        <!-------------------- SERVICES PAGE  -------------------->
