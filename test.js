@@ -16,11 +16,6 @@ let callback = (entries, observer)=>{
     }
         
 let observer = new IntersectionObserver(callback, options)
-observer.observe(document.querySelector('#Img011'));
-observer.observe(document.querySelector('#Img012'));
-observer.observe(document.querySelector('#Img013'));
-observer.observe(document.querySelector('#Img014'));
-observer.observe(document.querySelector('#Img015'));
 observer.observe(document.querySelector('#Img016'));
 observer.observe(document.querySelector('#Img017'));
 observer.observe(document.querySelector('#Img018'));
