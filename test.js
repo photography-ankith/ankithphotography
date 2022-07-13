@@ -1,7 +1,7 @@
  let options = {
     root: null,
     rootMargin: '0px',
-    threshold: 0.00000000000000000001
+    threshold: 0.00000000001
     };
         
 let callback = (entries, observer)=>{
