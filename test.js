@@ -1,6 +1,5 @@
  let options = {
-    root: null,
-    rootMargin: '0px',
+    rootMargin: '50px',
     threshold: 0.00000000001
     };
         
