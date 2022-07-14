@@ -10,6 +10,7 @@ let callback = (entries, observer)=>{
                 let imageUrl = entry.target.getAttribute('data-src');
                 if(imageUrl){
                     entry.target.src = imageUrl;
+                    observer.unobserve(entry.target);
                 }
             }
         });
