@@ -16,7 +16,15 @@ let callback = (entries, observer)=>{
     }
         
 let observer = new IntersectionObserver(callback, options)
-observer.observe(document.querySelector('#Img016'));
+var lazyImages = [].slice.call(document.querySelectorAll('[id^="Img"]'));
+
+// Loop through the image array and pass each image as a target element to the observer 
+lazyImages.forEach((lazyImage)=> {
+  observer.observe(lazyImage);
+});
+
+
+/* observer.observe(document.querySelector('#Img016'));
 observer.observe(document.querySelector('#Img017'));
 observer.observe(document.querySelector('#Img018'));
 observer.observe(document.querySelector('#Img019'));
@@ -98,4 +106,4 @@ observer.observe(document.querySelector('#Img094'));
 observer.observe(document.querySelector('#Img095'));
 observer.observe(document.querySelector('#Img096'));
 observer.observe(document.querySelector('#Img097'));
-observer.observe(document.querySelector('#Img098'));
+observer.observe(document.querySelector('#Img098')); */
