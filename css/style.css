@@ -9,7 +9,7 @@ Version: 1.0
 /* FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
     @font-face {
         font-family: "monument";
         src: url('fonts/monumentextended-regular-webfont.woff2') format('woff2'),
@@ -389,7 +389,7 @@ li{
 
 #home .image-type {
     opacity: 1;
-    font-family: Tinos;
+    font-family: "Playfair Display";
     font-size: 80px;
     position: absolute;
     z-index: 2;
@@ -417,7 +417,7 @@ li{
 /* IMAGE TEXT IN CENTER */
 #home .swiper-slide-active .image-type span{
     color: #ad0961;
-    font-family: Tinos;
+    font-family: "Playfair Display";
     transform-origin: 50% 50%;
     transform: translate(0px, 0px) ;
     opacity: 1;
@@ -821,7 +821,7 @@ padding: 30px;
 .service-type-heading{
     font-size: 60px;
     width: 100%;
-    font-family: Tinos;
+    font-family: "Playfair Display";
     padding: 20px;
     padding-right: 0px;
 }
