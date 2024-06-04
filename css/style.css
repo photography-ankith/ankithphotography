@@ -9,6 +9,7 @@ Version: 1.0
 /* FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
     @font-face {
         font-family: "monument";
         src: url('fonts/monumentextended-regular-webfont.woff2') format('woff2'),
@@ -16,13 +17,6 @@ Version: 1.0
         font-weight: normal;
         font-style: normal;
     }     
-    @font-face {
-        font-family: "orelo";
-        src: url('fonts/orelo_standard_medium-webfont.woff2') format('woff2'),
-        url('fonts/orelo_standard_medium-webfont.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
-        }
     @font-face {
         font-family: "camel";
         src: url('fonts/camel.woff2') format('woff2'),
@@ -395,7 +389,7 @@ li{
 
 #home .image-type {
     opacity: 1;
-    font-family: orelo;
+    font-family: Tinos;
     font-size: 80px;
     position: absolute;
     z-index: 2;
@@ -423,7 +417,7 @@ li{
 /* IMAGE TEXT IN CENTER */
 #home .swiper-slide-active .image-type span{
     color: #ad0961;
-    font-family: orelo;
+    font-family: Tinos;
     transform-origin: 50% 50%;
     transform: translate(0px, 0px) ;
     opacity: 1;
@@ -827,7 +821,7 @@ padding: 30px;
 .service-type-heading{
     font-size: 60px;
     width: 100%;
-    font-family: orelo;
+    font-family: Tinos;
     padding: 20px;
     padding-right: 0px;
 }
